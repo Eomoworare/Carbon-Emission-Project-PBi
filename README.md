@@ -8,23 +8,28 @@ The Key Performance Indicators (KPIs) capture insights drawn from the Carbon Emi
 2. January was the month with the highest carbon emission value over the 44 year period the data was recorded.
 
 
-<img width="644" height="457" alt="image" src="https://github.com/user-attachments/assets/3e6bd3fb-cc87-4a4e-bfa8-325f5cd89bdb" />
+<img width="644" height="457" alt="image" src="https://github.com/user-attachments/assets/c893a8ce-9abd-4789-8ec4-66177a519d89" />
+
+
 
 
 3.  The bar chart represents the total value per year for the 44 year period the data was recorded.
 
 
 
-<img width="836" height="457" alt="image" src="https://github.com/user-attachments/assets/7a7c2b26-5f2b-4c20-a8a0-239508568516" />
+<img width="836" height="457" alt="image" src="https://github.com/user-attachments/assets/21dee90d-cee5-42c2-b8ed-93ec8c4e7592" />
+
 
 
 4.  The bar chart reveals the economic zones with the highest carbon emission footprint namely TXEIEUS, CLEIEUS,NNEIEUS.
 
 
-<img width="644" height="452" alt="image" src="https://github.com/user-attachments/assets/43ee2f3a-22cd-4a51-9348-4f942d9aca0e" />
+<img width="644" height="452" alt="image" src="https://github.com/user-attachments/assets/26a0c1d1-9ebc-469a-8520-813fe70f4485" />
+
 
 
 5. 9 Carbon Emission industries recorded with the highest being Total Energy Electric Power Sector CO2 Emissions.
 
-   ![Uploading image.png…]()
+ <img width="836" height="452" alt="image" src="https://github.com/user-attachments/assets/7dac2034-0281-4bb7-94d0-bf5976f5d8b4" />
+
 

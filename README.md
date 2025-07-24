@@ -16,9 +16,7 @@ The Key Performance Indicators (KPIs) capture insights drawn from the Carbon Emi
 
 
 
-<img width="644" height="457" alt="image" src="https://github.com/user-attachments/assets/c893a8ce-9abd-4789-8ec4-66177a519d89" />
-
-
+<img width="431" height="308" alt="image" src="https://github.com/user-attachments/assets/4f9c89c5-a7c7-42c5-9d97-5b8677ae0799" />
 
 
 
@@ -30,7 +28,8 @@ The Key Performance Indicators (KPIs) capture insights drawn from the Carbon Emi
 
 
 
-<img width="836" height="457" alt="image" src="https://github.com/user-attachments/assets/21dee90d-cee5-42c2-b8ed-93ec8c4e7592" />
+<img width="562" height="306" alt="image" src="https://github.com/user-attachments/assets/1da369d3-6466-4aa6-b4a1-a2024e93fdf1" />
+
 
 
 
@@ -39,7 +38,10 @@ The Key Performance Indicators (KPIs) capture insights drawn from the Carbon Emi
 4.  The bar chart reveals the economic zones with the highest carbon emission footprint namely TXEIEUS, CLEIEUS,NNEIEUS.
 
 
-<img width="644" height="452" alt="image" src="https://github.com/user-attachments/assets/26a0c1d1-9ebc-469a-8520-813fe70f4485" />
+
+
+<img width="433" height="301" alt="image" src="https://github.com/user-attachments/assets/8c58e322-d582-4b47-97f9-6ca041dec51b" />
+
 
 
 
@@ -47,6 +49,7 @@ The Key Performance Indicators (KPIs) capture insights drawn from the Carbon Emi
 
 
 
- <img width="836" height="452" alt="image" src="https://github.com/user-attachments/assets/7dac2034-0281-4bb7-94d0-bf5976f5d8b4" />
+ <img width="564" height="306" alt="image" src="https://github.com/user-attachments/assets/77fd20ae-027b-49b7-a1d8-152734e3aa2f" />
+
 
 

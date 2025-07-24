@@ -14,10 +14,7 @@ The Key Performance Indicators (KPIs) capture insights drawn from the Carbon Emi
 
 
 
-
-
-<img width="431" height="308" alt="image" src="https://github.com/user-attachments/assets/4f9c89c5-a7c7-42c5-9d97-5b8677ae0799" />
-
+<img width="644" height="457" alt="image" src="https://github.com/user-attachments/assets/f568c60e-b1f9-4f79-832c-b6098b12f7b0" />
 
 
 
@@ -28,7 +25,7 @@ The Key Performance Indicators (KPIs) capture insights drawn from the Carbon Emi
 
 
 
-<img width="562" height="306" alt="image" src="https://github.com/user-attachments/assets/1da369d3-6466-4aa6-b4a1-a2024e93fdf1" />
+<img width="836" height="457" alt="image" src="https://github.com/user-attachments/assets/061a7e4e-487f-4209-99fc-f167eaf9fc2e" />
 
 
 
@@ -40,7 +37,8 @@ The Key Performance Indicators (KPIs) capture insights drawn from the Carbon Emi
 
 
 
-<img width="433" height="301" alt="image" src="https://github.com/user-attachments/assets/8c58e322-d582-4b47-97f9-6ca041dec51b" />
+<img width="644" height="452" alt="image" src="https://github.com/user-attachments/assets/ae2bb3d7-153c-46bd-9f66-a2888e6bda59" />
+
 
 
 
@@ -49,7 +47,8 @@ The Key Performance Indicators (KPIs) capture insights drawn from the Carbon Emi
 
 
 
- <img width="564" height="306" alt="image" src="https://github.com/user-attachments/assets/77fd20ae-027b-49b7-a1d8-152734e3aa2f" />
+ <img width="836" height="452" alt="image" src="https://github.com/user-attachments/assets/1fa71abf-38a1-413d-9064-94713b45edbb" />
+
 
 
 
